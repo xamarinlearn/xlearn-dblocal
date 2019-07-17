@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("Northwind.Droid.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("TwoTbl.Droid.Resource", IsApplication=true)]
 
-namespace Northwind.Droid
+namespace TwoTbl.Droid
 {
 	
 	
@@ -26,7 +26,7 @@ namespace Northwind.Droid
 		
 		public static void UpdateIdValues()
 		{
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::Northwind.Droid.Resource.Attribute.actionBarSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::TwoTbl.Droid.Resource.Attribute.actionBarSize;
 		}
 		
 		public partial class Animation
